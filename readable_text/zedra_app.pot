@@ -1,0 +1,182 @@
+CANCEL
+OK
+Search or enter address
+Settings
+About
+Help
+Your Rights
+Give feedback
+Share with friends
+Share via
+Search in 
+ is a fast and lightweight browser produced by Mozilla. Our mission is to foster a healthy, open internet.
+Learn more
+Support
+Your Rights / Licenses
+Privacy Notice
+Default search engine
+Language
+System default
+Default search engine
+Block images
+Clear browsing data
+Save downloads to
+Make default browser
+Changing settings…
+Turbo mode
+Send usage dataMozilla strives to collect only what we need to provide and improve  for everyone.
+Learn more
+About 
+Clear input
+Dismiss
+Secure connection
+Loading
+Website loaded
+More options
+Navigate forward
+Reload website
+Navigate back
+Stop loading website
+Return to previous app
+Block trackers
+Find an app that can open linkNone of the apps on your device are able to open this link. You can leave  to search  for an app that can.
+Webpage not available
+Make sure you are connected to the internet
+Check the address
+TRY AGAIN
+The address wasn’t understood
+You might need to install other software to open this address.
+Share link
+Copy link address
+Share image
+Copy image address
+Save image
+Open link in new tab
+Open image in new tab
+Thanks for choosing A browser tailor-made for Indonesia by Mozilla, the non-profit committed to a free and open web.
+Browse faster than everUse turbo mode to block tracking ads so you can browse at blazing speeds. If sites seem broken, just tap off the turbo mode switch in the menu.
+Save data = Save moneyBlocking tracking ads not only speeds up browsing, it saves data. Save even more when you block images.
+Screenshot everythingTake screenshots of entire web pages. View a screenshot offline (without using data) or tap it to revisit the web page.
+We heard your feedback!
+1. Multitask by opening  at the same time!
+multiple tabs
+2. Access your favorite sites quickly by 
+adding them to the home screen!
+OK, got it!
+Skip
+Next
+Bookmarks
+Downloads
+Clear cache
+History
+Share
+My shots
+Capture page
+Turbo mode
+Block Ads
+Block images
+Settings
+Exit
+settings
+not nowMissing permissions. Give Firefox Rocket permission to access your location.
+Location not available. Give permission to access your location.Missing permissions. Give Firefox Rocket permission to access your location.Storage not available. Give permission to store photos and files on your device. \nwants to access your location.
+ALLOW
+BLOCK
+Clear Data
+Cancel
+Browsing history
+Search history
+Form history
+Cookies
+Cache
+No downloads
+Downloading…
+Download protocol not supported
+Cannot find the file
+Cannot delete the file.
+ downloaded
+ was deleted
+Download canceled
+Undo
+Open
+paused
+Pending
+downloading
+Successful
+failed
+Unknown
+SD card
+Internal storage
+CLEAR BROWSING HISTORY
+No browsing history
+Today
+Yesterday
+Delete
+Clear all browsing history?
+Clear
+Remove from list
+Delete file
+Screenshot saved
+Failed to capture screenshot
+Capturing screenshot of entire page…
+VIEW
+EDIT
+DELETE
+SHARE
+No SD card detected. File was saved to internal storage.
+File saved to SD card
+SD card is almost full. File was saved to internal storage.
+No screenshots
+Tap   on the menu to capture\nan entire web page.
+Info
+Date: 
+Resolution: 
+Size: 
+Title: 
+URL: 
+Delete this image?
+Choose a file to upload
+Turbo mode enabled
+Turbo mode disabled
+Now blocking images
+Now showing images
+Unable to clear cache
+Storage inaccessible. Download canceled.
+ cache cleared
+Browsing data cleared
+Screenshot deleted
+Cannot display the screenshot
+Remove
+Product Update NoticeTo make Firefox Rocket better for you and everyone, we made some changes to our privacy policy. Tap to learn more.
+Love ?
+Thank you for choosing our product. Your feedback is important to us.
+Yes, rate 5 stars!
+RATE 5 STARS
+No, send feedback.
+FEEDBACK
+Share  with friends!- Fast and lightweight\n- Data saving\n- Powerful screenshots
+ShareHey, check out this fast and lightweight browser from Mozilla.   is free and open source software made by Mozilla and other contributors. is made available to you under the terms of the Mozilla Public License and other open source licenses.You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or  names or logos. Additional information may be found here.Additional source code for  is available under various other free and open source licenses. also uses blocklists provided by Disconnect, Inc. as separate and independent works under the GNU General Public License v3, and available here.
+We need you! 
+Shape a better product for Indonesia
+New tab opened
+SWITCH
+Changing settings…
+It may take a while
+Tap to set default browser
+Close all
+Close all tabs?
+Color your life!
+Double click on the home background to switch themes.
+Bookmark saved
+Bookmark removed
+EDIT
+Edit bookmark
+SAVE
+Name
+Location
+Bookmark updated
+No bookmarks
+Edit
+Private Browsing
+Erase private browsing history
+OPENYour private browsing\nhistory has been erased.

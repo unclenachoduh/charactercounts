@@ -1,0 +1,70 @@
+Firefox TV
+Pocket
+Cancel
+OK
+Search or enter address
+Settings
+About
+Language
+System default
+Privacy
+Block ad trackers
+Some ads track site visits, even if you don’t click the ads
+Block analytic trackers
+Used to collect, analyze and measure activities like tapping and scrolling
+Block social trackers
+Embedded on sites to track your visits and to display functionality like share buttons
+Block other content trackers
+Enabling may cause some pages to behave unexpectedly
+Performance
+Block Web fonts
+May result in missing icons or images
+Send usage data
+Privacy Notice
+Loading
+Website loaded
+Navigate forward
+Reload website
+Navigate back
+Open link in another app
+You can leave  to open this link in .
+Find an app that can open linkNone of the apps on your device are able to open this link. You can leave  to search  for an app that can.
+Exit Private Browsing?
+Problem loading page
+Try Again
+Unable to connect\n        The site could be temporarily unavailable or too busy. Try again in a few moments.\n        If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.\n      
+The connection timed out
+Server not found\n        Check the address for typing errors such as\n          ww.example.com instead of\n          www.example.com\n        If you are unable to load any pages, check your device’s data or Wi-Fi connection.\n      
+The address isn’t valid\n  Web addresses are usually written like http://www.example.com/\n  Make sure that you’re using forward slashes (i.e. /).\n
+The page isn’t redirecting properly\n  This problem can sometimes be caused by disabling or refusing to accept cookies.\n
+The address wasn’t understood\n  You might need to install other software to open this address.\n
+Secure connection failed\n  This could be a problem with the server’s configuration, or it could be\nsomeone trying to impersonate the server.\n  If you have connected to this server successfully in the past, the error may\nbe temporary, and you can try again later.\n
+Oops
+We can’t load this page for some reason.
+Your Rights is free and open source software made by Mozilla and other contributors. is made available to you under the terms of the Mozilla Public License and other open source licenses.You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or  names or logos. Additional information may be found here.Additional source code for  is available under various other free and open source licenses. also uses blocklists provided by Disconnect, Inc. as separate and independent works under the GNU General Public License v3, and available here.
+Clear all cookies and site dataThis will clear all cookies and site data. Clearing this information may sign you out of websites and delete web content that is stored offline.
+Turbo Mode
+Turbo Mode enabled
+Turbo Mode disabled
+Turbo Mode helps you browse fasterTurbo Mode automatically blocks trackers and ads to help get you where you're going faster. If there's a speed bump – like a site that isn't behaving the way you expect – just turn Turbo Mode off.
+Keep enabled
+Turn off
+Turn Turbo Mode Off
+Turn Turbo Mode On
+Press and hold SELECT to unpin from homescreen
+Remove
+Unpin
+Homescreen
+Pin to homescreen
+Pinned to  homescreen
+Removed from  homescreen
+Pinned to Firefox TV homescreen
+Removed from Firefox TV homescreen
+Introducing videos recommended by The most interesting videos on the web. Recommended by , now part of Mozilla.
+Ok, got it
+Video recommendation by 
+Recommended videos
+Hmm. We’re having trouble displaying video recommendations by .
+Try again
+Use left and right to move between videos
+ on 

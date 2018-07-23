@@ -1,0 +1,2442 @@
+No links are allowed.
+This display name cannot be used.
+Usernames cannot contain only digits.
+Enter a valid username consisting of letters, numbers, underscores or hyphens.
+This username cannot be used.
+This username is already in use.
+Images must be either PNG or JPG.
+Images cannot be animated.
+Please use images smaller than MB.
+You are already logged in.
+Your login attempt could not be parsed. Please try again.
+Your Firefox Account could not be found. Please try again.
+You could not be logged in. Please try again.
+Need help?
+Developers of add-ons or themes cannot delete their account. You must delete all add-ons and themes linked to this account, or transfer them to other users.
+Review
+Version 
+Review note
+Only latest versions of addons can have notes added.
+Status
+- Add-on not on AMO -
+Download Now
+Download
+Featured
+Not Reviewed
+Experimental
+Add to 
+This slug is already in use. Please choose another.
+The slug cannot be \"\". Please choose another.
+Invalid tag: 
+Invalid tags: 
+\"\" is a reserved tag and cannot be used.
+\"\" are reserved tags and cannot be used.
+You have  too many tags.
+You have  too many tags.
+All tags must be  characters or less after invalid characters are removed.
+All tags must be at least  character.
+All tags must be at least  characters.
+URL domain must be one of [], or a subdomain.
+Categories cannot be changed while your add-on is featured for this application.
+You can have only  category.
+You can have only  categories.
+The miscellaneous category cannot be combined with additional categories.
+Before changing your default locale you must have a name, summary, and description in that locale. You are missing .
+A license must be selected.
+Give Your Theme a Name.
+Describe your Theme.
+Enter a new author's email address
+Listed
+Addon and collection paths need to end with \"/\"
+Add-on names cannot contain the Mozilla or Firefox trademarks.
+Abuse reported.
+My add-on doesn't fit into any of the categories
+No compatible versions
+for 
+View privacy policy
+View End-User License Agreement
+This add-on has not been reviewed by Mozilla.
+This add-on has been marked as experimental by its developers.
+End-User License Agreement for 
+End-User License Agreement
+ requires that you accept the following End-User License Agreement before installation can proceed:
+Back to …
+Add-ons for 
+Featured Extensions
+Popular Extensions
+Most Popular
+All »
+See all »
+Up & Coming Extensions
+Featured Themes
+Featured Collections
+Sort by:
+Updated 
+Added 
+ weekly download
+ weekly downloads
+ user
+ users
+Requires Restart
+This add-on is built with new technology that is compatible with Firefox 57 and beyond.
+Compatible with Firefox 57+
+ weekly download
+ weekly downloads
+ user
+ users
+by
+More  Themes
+See all  Themes
+More by this Artist
+See all Themes by this Artist
+Categories
+Updated
+Artist
+Rating
+Daily Users
+License
+Awaiting Review
+Rejected
+Approved
+ user
+ users
+Hover to Preview
+Add
+Edit
+by  on 
+Not yet rated
+ users
+ Daily User
+ Daily Users
+Privacy Policy for 
+Privacy Policy
+Report Abuse
+If you suspect this add-on violates our policies or has security or privacy issues, please use the form below to describe your concerns. Please do not use this form for any other reason.
+Send Report
+or
+Cancel
+What do you think?
+Please log in to submit a review
+Review:
+Rating:
+Submit review
+Please do not post bug reports here. We do not make your email address available to add-on developers, so they can't contact you to resolve your issue.See this add-on's support section to find out if assistance is available. You can also try asking the add-on community for help.
+Review Guidelines
+Reviews
+by  on 
+Show the developer's reply to this review
+See all reviews of this add-on
+See all  reviews of this add-on
+Tags
+Icon for 
+by 
+Download Anyway
+[Warning]
+Permissions
+This add-on has been marked as experimental by its developers
+This add-on requires the following add-ons to work properly:
+Average
+Write a review
+Related Categories
+Part of these Collections
+Other add-ons by 
+Other add-ons by these authors
+ user review
+ user reviews
+View statistics
+Manage
+Add-on Review
+Admin Manage
+Icon of 
+Contribute
+Enjoy this add-on?
+The developer of this add-on asks that you help support its continued development by making a small contribution.
+Add-on screenshot #
+Add-on home page
+Support site
+Support E-mail
+Info
+Last Updated:
+Released under 
+Custom License
+About this Add-on
+Developer’s Comments
+Version Information
+See complete version history
+close
+Some add-ons ask for permission to perform certain functions (example: a tab management add-on will ask permission to access your browser’s tab system).Since you’re in control of your Firefox, the choice to grant or deny these requests is yours. Accepting permissions does not inherently compromise your browser’s performance or security, but in some rare cases risk may be involved.
+This add-on can:
+Some add-ons ask for permission to perform certain functions. Since you’re in control of your Firefox, the choice to grant or deny these requests is yours.
+Please note this add-on uses legacy technology, which gives it access to all browser functions and data without requesting your permission.
+This add-on has been removed by its author.
+This add-on has been disabled by an administrator.
+Source Code License for 
+Source Code License
+support section
+support email
+permalink
+See all user reviews
+See all  user reviews
+This add-on has not yet been reviewed.
+Be the first!
+ users
+More
+Add to collection
+My Add-ons
+My Themes
+Add-on Information for 
+Edit Theme
+Approve / Reject
+Review History
+Sorry, this theme is pending. Please come back later.
+This theme is pending. It is invisible to everyone but you.
+Collector's Note
+ weekly download
+ weekly downloads
+Not Reviewed
+Tools
+My Profile
+Account Settings
+My Collections
+My Favorites
+Log out
+Manage My Submissions
+Submit a New Add-on
+Submit a New Theme
+Developer Hub
+Manage API Keys
+Reviewer Tools
+Admin Tools
+Incorrect, please try again.
+Error verifying input, please try again.
+This must be a valid hex color code, such as #000000.
+Not allowed
+Oops! Not allowed.
+You tried to do something that you weren't allowed to.You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your browser is not being hijacked by third parties.
+If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests.You are seeing this message because this site requires a CSRF cookie when submitting forms. This cookie is required for security reasons, to ensure that your browser is not being hijacked by third parties.
+Page Not Found
+Firefox Add-ons
+Sorry, but we can't find anything at the address you entered. If you followed a link to an add-on, it's possible that add-on has been removed by its author.
+Suggested Pages
+Browse all extensions
+Browse all themes
+Add-ons Home Page
+If you followed a link from somewhere, please file an issue. Tell us where you came from and what you were looking for, and we'll do our best to fix it.
+Not FoundWe're sorry, but we can't find what you're looking for.  The page or file you requested wasn't found on our site. It's possible that you clicked a link that's out of date, or typed in the address incorrectly.   If you typed in the address, please double check the spelling.  If you followed a link from somewhere, please file an issue. Tell us where you came from and what you were looking for, and we'll do our best to fix it.   Or you can just jump over to some of the popular pages on our website.  Are you interested in a list of featured add-ons?  Do you want to search for add-ons? You may go to the search page or just use the search field above.   If you prefer to start over, just go to the add-ons front page.  
+Oops
+Oops!  We had an error. We'll get to fixing that soon.  You can try refreshing the page, or head back to the Add-ons homepage. 
+Some rights reserved
+No results found
+Prev
+Next
+Results – of 
+Maintenance in progress
+This feature is temporarily disabled while we perform website maintenance. Please use your browser's Back button and try again a little later.
+Some features on this page are temporarily disabled while we perform website maintenance. Please try again a little later.
+Are you human?
+What's this? Please enter all the words below, separated by a space if necessary.   If this is hard to read, you can try different words or try a different type of challenge instead. 
+Top Rated
+Newest
+Explore
+Extensions
+Themes
+Want more customization? Try Complete Themes
+Collections
+Collections I've Made
+Collections I'm Following
+My Favorite Add-ons
+More...
+Add-ons for Mobile
+Dictionaries & Language Packs
+Search Tools
+Page  of 
+Jump to first page
+Previous
+Jump to last page
+Showing – of 
+Add-ons
+ ago
+Title
+Body
+Another Title
+Another Body
+Invalid Authorization header. No credentials provided.
+Invalid Authorization header. Credentials string should not contain spaces.
+Signature has expired.
+Error decoding signature.
+Invalid JWT Token.
+The field must have a length of at least  characters.
+The language code  is invalid.
+You must provide an object of .
+Invalid pk or slug \"\" - object does not exist.
+Application Versions
+Acceptable versions for all applications on AMO.
+Valid Application Versions
+Add-ons submitted to Mozilla Add-ons must have a manifest file with at least one of the below applications supported. Only the versions listed below are allowed for these applications.
+Please be aware that WebExtensions will not accept a \"*\" in strict_min_version.
+GUID
+VersionsIf your supported application does not require a manifest file, you still must include one with the required properties as specified here.
+Only I can view this collection.
+Anybody can view this collection.
+Give your collection a name.
+URL:
+Describe your collection (no links allowed).
+Privacy:
+Icon
+Please don't fill out this field, it's used to catch bots
+This name cannot be used.
+This url is already in use by another collection
+Icons must be either PNG or JPG.
+Icons cannot be animated.
+This custom URL is already in use by another one of your collections.
+Name cannot be empty.
+The custom URL must consist of letters, numbers, underscores or hyphens.
+This custom URL cannot be used.
+This add-on already belongs to the collection
+Added
+Popularity
+Name
+Collection created!
+Your new collection is shown below. You can edit additional settings if you'd like.
+Collection updated!
+View your collection to see the changes.
+Icon Deleted
+Create a New Collection
+As noted in our Legal Notices, individual collection arrangements are governed by the Creative Commons Attribution Share-Alike License
+Create Collection
+View this collection
+Start a new collection...
+Start a New Collection
+Name:
+(optional)
+or Cancel
+To rate collections, you must have an add-ons account.
+Create an Add-ons Account
+or log in to your current account
+ :: Collections
+private
+ follower
+ followers
+About this Collection
+Add-ons synced to my Mobile Firefox
+Make this Collection Private
+Make this Collection Public
+More Options:
+Edit Collection
+Delete Collection
+ Theme in this Collection
+ Themes in this Collection
+ Add-on in this Collection
+ Add-ons in this Collection
+Go
+What are Collections?
+Collections are groups of related add-ons that anyone can create and share.
+Explore Collections
+Common TagsAdd-ons that you mark as favorites using the Add to Favorites feature appear below. This collection is currently public, which means everyone can see it. If you would like to hide it from public view, click the button below to make it private.Add-ons that you mark as favorites using the Add to Favorites feature appear below. This collection is currently private, which means only you can see it. If you would like everyone to be able to see your favorites, click the button below to make it public.
+My favorite add-ons
+ add-on
+ add-ons
+ follower
+ followers
+ weekly follower
+ weekly followers
+ monthly follower
+ monthly followers
+ follower
+ followers
+by 
+Stop Following
+Follow this Collection
+Edit this Collection
+Delete 
+Are you sure?
+Yes
+No
+Edit 
+Description
+Save Changes
+Remove from favorites
+Add to favorites
+Collections by 
+No collections found.
+Collections are groups of related add-ons that anyone can create and share. Explore collections created by other users or create your own.
+by 
+Following
+Create a Collection
+Collections make it easy to keep track of favorite add-ons and share your perfectly customized browser with others.
+Collection Icon
+Reset
+PNG and JPG supported.  Image will be resized to 32x32.
+There are errors in this form.  Please correct them below.
+Add-ons in Your Collection
+To include an add-on in this collection, enter its name in the box below and hit enter.
+Add-on
+Comment
+Remove
+Enter the name of the add-on to include
+Add to Collection
+Pending
+Add a comment
+Remove this add-on from the collection
+Add a positive vote for this collection
+Add a negative vote for this collection
+Remove my vote for this collection
+Log in to vote for this collection
+Favorite
+ Add-ons
+ Themes
+Featured Add-ons :: 
+Here's a few of our favorite add-ons to help you get started customizing .
+Search tools relating to 
+Search tools and search-related extensions
+Search tools
+Most Users
+Weekly Downloads
+Recently Updated
+Up & Coming
+Recently Added
+Created
+Downloads
+: Featured Add-ons
+No featured add-ons in .
+Subscribe
+Featured Add-ons
+Here's a few of our favorite add-ons to help you get started customizing .
+Install Dictionary
+Install Language Pack
+Download Dictionary
+Download Language PackInstalling a dictionary add-on will add a new language option to your  spell-checker, which checks your spelling when you fill out Web forms. Language pack add-ons change the language of the entire application.
+Available in your locale
+List of language packs and dictionaries available in your locale.
+Language
+Dictionary
+Language Pack
+All locales
+List of language packs and dictionaries.
+ :: Search Tools
+ add-on
+ add-ons
+Search Extensions
+Add search-related functionality to Firefox
+Search Providers
+Find new providers for your search bar
+Additional Resources
+Learn more about the search bar in 
+Browse through even more search providers at mycroftproject.com
+Make your own search tool
+Most Popular Extensions
+Top-Rated Extensions
+Newest Extensions
+Extensions by Name
+Extensions by Weekly Downloads
+Recently Updated Extensions
+Up & Coming Extensions
+Featured Complete Themes
+Most Popular Complete Themes
+Top-Rated Complete Themes
+Newest Complete Themes
+Complete Themes by Name
+Complete Themes by Weekly Downloads
+Recently Updated Complete Themes
+Up & Coming Complete Themes
+See the  extension in  »
+See all  extensions in  »
+ Themes
+'s Themes
+View Profile
+Create Your Own Theme
+Your browser, your style! Dress it up with a design of your own!
+Learn more
+View All Recently Added
+View All Most Popular
+View All Top Rated
+Over 300,000 designs to personalize your browser! Move your mouse over a Background Theme to try it on. Start exploring
+Want more personalization?
+Complete Themes transform the look of your browser with styles for the window frame, address bar, buttons, tabs, and menus. Start exploring
+Up & Coming Themes
+View All Up & Coming
+No themes found
+All
+Add-on Compatibility Reports Reports submitted to us through the Add-on Compatibility Reporter are collected here for developers to view. These reports help us determine which add-ons will need help supporting an upcoming Firefox version. 
+Reports for your Add-ons
+Enter the GUID of an add-on below to view any reports we've received.
+ Compatibility Reports
+ success report
+ success reports
+ problem report
+ problem reports
+View all
+Filter by Application
+Report Type
+Version
+Application Version
+Application Build
+Platform
+e10s Enabled
+e10s Compatible
+Submitted
+Success
+Problem
+No reports found.
+ was created.
+ properties edited.
+ description edited.
+Categories edited for .
+ () added to .
+ () removed from .
+Contributions for .
+ disabled.
+ enabled.
+ status changed to .
+ added to .
+ edited for .
+Version  deleted from .
+File  added to  of .
+File  deleted from  of .
+  approved.
+  given preliminary review.
+Preliminarily approved
+  rejected.
+  retained.
+Retained
+  escalated.
+Super review requested
+  review requested.
+Review requested
+  more information requested.
+More information requested
+  super review requested.
+The addon has been flagged for Admin Review.  It's still in our review queue, but it will need to be checked by one of our admin reviewers. The review might take longer than usual.
+Comment on  .
+Commented
+ added to .
+ removed from .
+ added to .
+ removed from .
+ for  written.
+ featured in .
+ no longer featured in .
+ is now featured.
+ is no longer featured.
+  added.
+ role changed to  for .
+ is now licensed under .
+ policy changed.
+ icon changed.
+ for  approved.
+ approved  for .
+Review  for  deleted.
+ deleted  for .
+Application max version for  updated.
+Authors emailed about compatibility of .
+Email sent to Author about add-on compatibility.
+Password changed.
+  approved but waiting to be made public.
+Approved but waiting
+Account updated.
+Created: .
+Edited field:  set to: .
+Deleted: .
+User  edited, reason: 
+User  anonymized.
+User  restricted.
+Admin  viewed activity log for .
+ for  updated.
+ reviewed.
+User  banned.
+User  picture deleted.
+User  added to .
+User  removed from .
+ unlisted.
+ was signed.
+Addon id  with GUID  has been deleted
+ migrated from preliminary.
+Reply by developer on  .
+Developer Reply
+Reply by reviewer on  .
+Reviewer Reply
+Approval notes changed for  .
+Approval notes changed
+Source code uploaded for  .
+Source code uploaded
+Auto-Approval confirmed for  .
+Auto-Approval confirmed
+  re-enabled.
+  disabled.
+  content approved.
+Content approved
+  content rejected.
+Content rejected
+ information request altered or removed by admin.
+Information request altered
+Information request cleared by developer on  .
+Information request removed
+  admin add-on-review requested.
+Admin add-on-review requested
+  admin content-review requested.
+Admin content-review requested
+  admin theme-review requested.
+Admin theme-review requested
+ was migrated from a lightweight theme.
+Firefox
+Thunderbird
+SeaMonkey
+Sunbird
+Mobile
+Firefox for Android
+Mozilla
+Unknown
+Incomplete
+Disabled by Mozilla
+Deleted
+Pending approval
+Flagged for further review
+Unlisted
+Owner
+Developer
+Extension
+Complete Theme
+Search Engine
+Language Pack (Application)
+Language Pack (Add-on)
+Plugin
+Theme
+Theme (Static)
+Complete Themes
+Dictionaries
+Language Packs (Application)
+Language Packs (Add-on)
+Plugins
+Themes (Static)
+Other
+Exception
+Release
+Change
+Compatible
+Incompatible
+Alerts & Updates
+Appearance
+Bookmarks
+Download Management
+Feeds, News & Blogging
+Games & Entertainment
+Language Support
+Photos, Music & Videos
+Privacy & Security
+Shopping
+Social & Communication
+Tabs
+Web Development
+Animals
+Compact
+Large
+Miscellaneous
+Modern
+Nature
+OS Integration
+Retro
+Sports
+Abstract
+Causes
+Fashion
+Film and TV
+Foxkeh
+Holiday
+Music
+Scenery
+Seasonal
+Solid
+Websites
+General
+Business
+Dictionaries & Encyclopedias
+Kids
+Multiple Search
+News & Blogs
+Photos & Images
+Shopping & E-Commerce
+Social & People
+Travel
+Video
+Device Features & Location
+Experimental
+Feeds, News, & Blogging
+Performance
+Photos & Media
+Security & Privacy
+Social Networking
+Sports & Games
+User Interface
+Appearance and Customization
+Calendar and Date/Time
+Chat and IM
+Message Composition
+Contacts
+Folders and Filters
+Import/Export
+Message and News Reading
+Privacy and Security
+Downloading and File Management
+Interface Customizations
+Language Support and Translation
+Photos and Media
+RSS, News and Blogging
+Site-specific
+Web and Developer Tools
+All Rights Reserved
+Creative Commons Attribution 3.0
+Creative Commons Attribution-NonCommercial 3.0
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0
+Creative Commons Attribution-NonCommercial-Share Alike 3.0
+Creative Commons Attribution-NoDerivs 3.0
+Creative Commons Attribution-ShareAlike 3.0
+Any
+All Platforms
+Linux
+Mac OS X
+BSD
+Windows
+Solaris
+Android
+Static Theme
+Persona
+No Reputation
+Good (1)
+Very Good (2)
+Excellent (3)
+Manual Reviewer Points
+New Add-on Review
+Preliminary Add-on Review
+Updated Add-on Review
+New Dictionary Review
+Preliminary Dictionary Review
+Updated Dictionary Review
+New Language Pack Review
+Preliminary Language Pack Review
+Updated Language Pack Review
+Theme Review
+Theme (Static) Review
+New Search Provider Review
+Preliminary Search Provider Review
+Updated Search Provider Review
+New Complete Theme Review
+Preliminary Complete Theme Review
+Updated Complete Theme Review
+Moderated Add-on Review
+Add-on Review Moderation Reverted
+Add-on Content Review
+Post-Approval Add-on Review (Highest Risk)
+Post-Approval Add-on Review (High Risk)
+Post-Approval Add-on Review (Medium Risk)
+Post-Approval Add-on Review (Low Risk)
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Level 6
+Level 7
+Level 8
+Level 9
+Request More Info
+Flag
+Duplicate
+Reject
+Approve
+Sexual or pornographic content
+Inappropriate or offensive content
+Violence, war, or weaponry images
+Nazi or other hate content
+Defamatory content
+Online gambling
+Spam content
+Low-quality, stretched, or blank image
+Header image alignment problem
+Core
+Recent Changes for 
+Recent Changes for My Add-ons
+Must have at least one owner.
+At least one author must be listed.
+An author can only be listed once.
+Slug incorrect.
+Details
+What is your license's name?
+Provide the text of your license.
+License text is required when choosing Other.
+This add-on has an End-User License Agreement
+Please specify your add-on's End-User License Agreement:
+This add-on has a Privacy Policy
+Please specify your add-on's Privacy Policy:
+Unsupported file type, please upload an archive file .
+View current
+Invalid version range.
+Need at least one compatible application.
+There was an error with your upload. Please try again.
+Override failed validation
+Submit my add-on for manual review.
+You cannot upload any more files for this version.
+Version doesn't match
+Version  was uploaded before and deleted.
+Version  already exists.
+Continue with existing upload instead?
+The platform All cannot be combined with specific platforms.
+A platform can only be chosen once.
+Application
+Select an application first
+There cannot be more than 3 required add-ons.On this site. Your submission will be listed on this site and the Firefox Add-ons Manager for millions of users, after it passes code review. Automatic updates are handled by this site. This add-on will also be considered for Mozilla promotions and contests. Self-distribution of the reviewed files is also possible.On your own. Your submission will be immediately signed for self-distribution. Updates should be handled by you via an updateURL or external application updates.
+Categories cannot be changed while your add-on is featured.
+Add-ons for Thunderbird and SeaMonkey are now listed and maintained on addons.thunderbird.net. You can use the same account to update your add-ons on the new site.
+Starting with Firefox 53, new add-ons on this site can only be WebExtensions.
+Legacy add-ons are not compatible with Firefox 57 or higher. Use a maxVersion of 56.* or lower.
+Legacy language packs for Firefox are no longer supported. A WebExtensions install manifest is required. See  for more details.
+We allow and encourage an upgrade but you cannot reverse this process. Once your users have the WebExtension installed, they will not be able to install a legacy add-on.
+You cannot update a WebExtensions add-on with a legacy add-on. Your users would not be able to use your new version because Firefox does not support this type of update.
+Your developer API key was found in the submitted file. To protect your account, the key will be revoked.
+The developer API key of a coauthor was found in the submitted file. To protect your add-on, the key will be revoked.
+ responded with  ().
+Connection to \"\" timed out.
+Could not contact host at \"\".
+Mozilla Security Notice: Your AMO API credentials have been revoked
+Validation generated too many errors/warnings so  messages were truncated. After addressing the visible messages, you'll be able to see the others.
+All My Add-ons
+All Activity
+Add-on Updates
+Add-on Status
+User Collections
+User Reviews
+Changes successfully saved.
+Please check the form for errors.
+Add-on cannot be deleted. Disable this add-on instead.
+Theme deleted.
+Add-on deleted.
+URL name was incorrect. Theme was not deleted.
+URL name was incorrect. Add-on was not deleted.
+An author has been added to your add-on
+An author has a role changed on your add-on
+An author has been removed from your add-on
+Validate Add-on
+Check Add-on Compatibility
+Images cannot be larger than KB.
+Image must be exactly  pixels wide and  pixels tall.
+There was an error uploading your preview.
+Version  disabled.
+Version  deleted.
+Version  re-enabled.
+This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it.
+Review requested.
+You must provide further details to proceed.
+Your old credentials were revoked and are no longer valid. Be sure to update all API clients with the new credentials.
+Your old credentials were revoked and are no longer valid.
+New API key created
+API key revokedBefore starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information.
+Firefox Add-on Distribution Agreement
+Review Policies and Rules
+I have read and accept this Agreement and the Rules and Policies
+Accept
+or Cancel
+Back to Add-ons
+ Add-ons
+Return to the DevHub homepage
+Add-on Developer Hub
+more add-ons...
+Documentation
+Extension Development
+Lightweight Themes
+Add-on Policies
+Add-on Validator
+Add-on Compatibility Checker
+Development Add-ons
+Community & Support
+Add-ons Blog
+Add-ons Forum
+More Resources
+Search Developer Docs
+Search
+Use the field below to upload your add-on package.
+Note that this tool only works with legacy add-ons. WebExtension APIs are thoroughly documented here.
+After upload, a series of automated validation tests will run to check compatibility with the following application version:
+After upload, a series of automated validation tests will be run on your file.
+Do you want your add-on to be distributed on this site?
+Validation Results for 
+Validation Results
+Validated at:
+Tested for compatibility against:
+Recent Activity for My Add-ons
+Recent Activity for 
+ by 
+No results found.
+Refine Activity
+Activity
+Subscribe to this feedThis add-on is incompatible with  , the latest release of . Please consider updating your add-on's compatibility info, or uploading a newer version of this add-on.Update Compatibility Upload New Version or Ignore
+View and update application compatibility ranges.
+Compatibility
+Update Compatibility
+Adjusting application information here will allow users to install your add-on even if the install manifest in the package indicates that the add-on is incompatible.
+Supported Versions
+Add Another Application...
+Close
+Recent Activity
+ by 
+Older activity for My Add-ons
+ theme
+ themes
+Edit Information
+None
+Preview
+Preview of listed version
+Preview still being generated - come back later or refresh the page.
+Manage Authors & License
+Authors
+About author rolesAdd-ons can have any number of authors with 2 possible roles:  Owner: Can manage all aspects of the add-on's listing, including adding and removing other authors Developer: Can manage all aspects of the add-on's listing, except for adding and removing other authors 
+Basic Information
+Basic Information for 
+Add-on URL
+Choose a short, unique URL slug for your add-on.
+View Listing
+Summary
+This summary should clearly explain what your add-on does. It will be shown in listings and searches, and it will be used by reviewers to test your add-on.
+Experimental?
+If your add-on on is experimental or otherwise not ready for general use.  The add-on will be listed but will have reduced visibility. 
+This add-on is experimental.
+This add-on is ready for general use.
+Requires Payment?
+Check this box if this add-on's core features require some form of payment upfront or after a trial period in order to work.
+This add-on requires payment, non-free services or software, or additional hardware.
+This add-on doesn't require any additional payments, paid services or software, or additional hardware.
+Categories are the primary way users browse through add-ons. Choose any that fit your add-on's functionality for the most exposure.Categories cannot be changed while your add-on is featured for this application. Please email  if there is a reason you need to modify your categories.
+Categories cannot be changed while your add-on is featured. Please email  if there is a reason you need to modify your categories.
+Tags help users find your add-on and should be short descriptors such as tabs, toolbar, or twitter. You may have a maximum of  tags.
+Comma-separated, minimum of  character.
+Comma-separated, minimum of  characters.
+Example: dark, cinema, noir. Limit 20.
+Reserved tag:
+Reserved tags:
+Contributions URL
+If you would like to request monetary contributions from your users, set this to a page where they can do so.
+Add-on Details
+Add-on Details for 
+A longer explanation of features, functionality, and other relevant information. This field is only displayed on the add-on's details page. It is only relevant for listed add-ons.
+Default Locale
+Information about your add-on is displayed in this locale unless you override it with a locale-specific translation. It is only relevant for listed add-ons.
+HomepageIf your add-on has another homepage, enter its address here. If your website is localized into other languages multiple translations of this field can be added. It is only relevant for listed add-ons.
+Images
+Support Information
+Support Information for 
+EmailIf you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant for listed add-ons.
+WebsiteIf your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for listed add-ons.
+Technical Details
+Technical Details for 
+Developer CommentsAny information end users may want to know that isn't necessarily applicable to the add-on summary or description. Common uses include listing known major bugs, information on how to report bugs, anticipated release date of a new version, etc. It is only relevant for listed add-ons.
+Required Add-ons
+Limit 3
+Add-on Flags
+These flags are used to classify add-ons. It is only relevant for listed add-ons.
+This add-on requires external software.
+View Source?
+Whether the source of your add-on can be displayed in our online viewer. It is only relevant for listed add-ons.
+This add-on's source code is publicly viewable.
+No, this add-on's source code is not publicly viewable.
+Public Stats?
+Whether the download and usage stats of your add-on can be displayed in our online viewer. It is only relevant for listed add-ons.
+This add-on's stats are publicly viewable.
+No, this add-on's stats are not publicly viewable.
+Upgrade SDK?
+If selected, we will try to automatically upgrade your add-on when a new version of the SDK is released. It is only relevant for listed add-ons.
+This add-on will be automatically upgraded to new versions of the Add-on SDK.
+No, this add-on will be upgraded manually.
+Universally unique identifier
+UUID
+The UUID of your add-on is specified in its install manifest and uniquely identifies it. You cannot change your UUID once it has been submitted.
+WhiteboardThe whiteboard is the place to provide information relevant to your addon, whatever the version, to the reviewers. Use it to provide ways to test the addon, and any additional information that may help. This whiteboard is also editable by reviewers.
+Remove this dependent add-on
+Enter the name of an add-on
+Add-on Media for 
+Add-on iconUpload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only relevant for listed add-ons.
+Select an icon for your add-on:
+32x32px
+Used in listings of add-ons, like search results and featured add-ons.
+64x64px
+Used in add-on detail pages.
+Upload a Custom Icon...
+PNG and JPG supported. Icons resized to 64x64 pixels if larger.
+Screenshots
+Please provide at least one screen shot of your add-on:
+Please provide a caption for this screenshot:
+Add a Screenshot...PNG and JPG supported. The maximum and recommended size for screenshots is 1280x800 pixels. 640x400 pixels is a good alternative if you only have smaller images. Having screenshots in your listing page greatly increases its chances of being installed and being featured in the homepage.
+Continue
+Can others share your Add-on, as long as you're given credit?
+Can others make commercial use of your Add-on?
+Can others create derivative works from your Add-on?
+Yes, as long as they share alike
+The licensor permits others to distribute derivativeworks only under the same license or one compatible with the one that governs the licensor's work.
+Your Add-on will be released under the following license:
+Select a different license.
+More information on Creative Commons licenses
+Tests
+General Tests
+Security Tests
+Extension Tests
+Localization Tests
+Compatibility Tests
+Hide messages not required for automated signing
+Hide messages present in previous version and ignored
+Top
+Delete Theme
+Delete Add-on
+Deleting your theme will permanently remove it from the site.Deleting your add-on will permanently delete all versions and files you have submitted for this add-on, listed or not. The add-on ID will continue to be linked to your account, so others won't be able to submit versions using the same ID.
+Enter the following text to confirm your decision: 
+Please tell us why you are deleting your theme:
+Please tell us why you are deleting your add-on:
+Actions
+Resume the submission process for this add-on.
+Resume
+Delete this add-on.
+Delete
+Edit information about this add-on.
+Upload a new version of this add-on.
+New Version
+Daily statistics on downloads and users.
+Statistics
+Manage Status & Versions
+View Add-on Listing
+View Recent Changes
+Edit details about this theme's listing.
+Edit Listing
+View the popularity of this theme over time.
+View Statistics
+Change the owner of this theme.
+Transfer Ownership
+Delete this theme.
+This add-on is missing some required information before it can be submitted for publication.
+This add-on doesn't have any versions.
+Status:
+Disabled
+Queue position:  of 
+ active user
+ active users
+Submit a New File
+Submit a New Version
+Describe Add-on
+Name on listing on this site. May be different to the name inside the add-on, which is shown inside Firefox
+Add-on URL:
+Please use only letters, numbers, underscores, and dashes in your URL.
+Summary:
+required
+This add-on is experimental
+Check this option if your add-on is experimental or otherwise not ready for general use.  The add-on will be listed but will have reduced visibility.  You can change this setting later.
+Select a category for this add-on:
+Support email:
+Support website:
+License:
+Please choose a license appropriate for the rights you grant.
+If your add-on transmits any data from the user's computer, a privacy policy is required that explains what data is sent and how it is used.
+Notes to Reviewer:
+Is there anything our reviewers should bear in mind when reviewing this add-on?
+These notes will only be visible to you and our reviewers.
+Cancel and Disable Version
+Submit Version
+Describe Version
+Release Notes:
+Let your users know what's new and what's changed in this version.
+These notes will appear on the detail page.
+How to Distribute this Version
+More information on Add-on Distribution and Signing
+Submission Complete
+You’re done!
+Version Submitted for Review
+Preview of the version submitted
+You’re done! This version will be available after it passes review. You will be notified when it is reviewed.
+Version Submitted
+You’re done! This version will be available on our site shortly.
+You’re done! This version has been submitted for review. You will be notified when the review has been completed, or if our reviewers have any questions about your submission.
+Your listing will be more successful by adding a detailed description. Get your listing ready for publication:
+Your listing will be more successful by adding a detailed description and screenshots. Get your listing ready for publication:
+Manage Listing
+You can also edit this version to add version notes, or source code if your submission includes minified, obfuscated or compiled code.
+Edit version 
+File Signed
+You’re done! This file is signed and ready to for self-distribution. You can download it by clicking the button below.
+Version Signed
+You’re done! This version is signed and ready to for self-distribution. You can download it by clicking the button below.
+Download 
+You selected only some of the available platforms for this submission. You can upload more files that target other platforms:
+Upload File
+Go to My Submissions
+Add-on Distribution Agreement
+Upload Add-on
+Where to Host File
+Where to Host Version
+Upload Version
+Use the fields below to upload your add-on package. After upload, a series of automated validation tests will be run on your file.
+Which platforms is this file compatible with?
+Administrative overrides
+Create a Theme Version
+Create a Theme
+Submit File
+Sign Add-on
+Theme generate
+Theme generator
+Theme name
+Select a header image for your theme
+Image height should be 200 pixels
+PNG, JPG, APNG, SVG or GIF (not animated)
+Aligned to top-right
+Select a different header image
+Select colors for your theme
+Header area background
+The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  accentcolor.
+Header area text and icons
+The color of the text and icons in the header area, except the active tab. Manifest field:  textcolor.
+Toolbar area background
+The background color for the navigation bar, the bookmarks bar, and the selected tab.  Manifest field:  toolbar.
+Toolbar area text and icons
+The color of the text and icons in the toolbar and the active tab. Manifest field:  toolbar_text.
+Toolbar field area background
+The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field.
+Toolbar field area text
+The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text.
+optional
+Browser preview
+Back
+Uploading Theme
+Finish Theme
+API Credentials
+For detailed instructions, consult the API documentation.
+Keep your API keys secret and never share them with anyone, including Mozilla contributors.
+JWT issuer
+JWT secretTo make API requests, send a JSON Web Token (JWT) as the authorization header. You'll need to generate a JWT for every request as explained in the API documentation.
+You don't have any API credentials.
+Revoke
+Revoke and regenerate credentials
+Generate new credentials
+Invisible
+Please complete your add-on by adding a version or missing metadata.
+You will receive an email when the review is complete. Until then, your add-on is not listed in our gallery but can be accessed directly from its details page. 
+Your add-on is displayed in our gallery and users are receiving automatic updates.
+Your add-on was disabled by a site administrator and is no longer shown in our gallery. If you have any questions, please email amo-admins@mozilla.org.
+Your add-on won't be included in search results, and its listing page will indicate you disabled it. New version submissions for listing won't be accepted in this state.
+Created:
+Add-on Multi Process Status:
+Your add-on compatibility with Multi Process Firefox (e10s).
+Listed on this site after passing code review. Automatic updates are handled by this site.
+Listed Version:
+This is the version of your add-on that will be installed if someone clicks the Install button on addons.mozilla.org.
+Next Listed Version:
+This is the newest uploaded version, however it isn’t live on the site yet.
+Queues are not reviewed strictly in order
+Queue Position:
+ of 
+Signed for self-distribution. Updates are handled by you.
+Latest Version:
+This is the newest uploaded unlisted version.
+Upload New Version
+View All
+Listed Review Page
+Unlisted Review Page
+View Statistics Dashboard
+Compatibility Reports
+ failure reports
+ success reports
+Developer News
+View the blog ►
+Pending information request:
+This request for information has been resolved
+Please choose a license appropriate for the rights you grant on your source code. It is only relevant for listed add-ons.
+Allowed HTML: 
+Some HTML supported.
+Remove this application
+Select up to   category for this add-on:
+Select up to   categories for this add-on:Users will be required to accept the following End-User License Agreement (EULA) prior to installing your add-on. The presence of a EULA significantly affects the number of downloads an add-on receives. Please note that a EULA is not the same as a code license, such as the GPL or MPL.It is only relevant for listed add-ons.
+If your add-on transmits any data from the user's computer, a privacy policy is required that explains what data is sent and how it is used. It is only relevant for listed add-ons.
+If your add-on contains binary or obfuscated code other than known libraries, upload its sources for review.
+Please include instructions on how to reproduce the final add-on file, either in a README file or the Notes to Reviewer for this version.
+Read more about the source code review policy.
+Latest News
+Read more in our Blog
+Resources
+Porting
+Community
+About
+Forum
+Blog
+Contact Us
+Support
+Policies
+Report Bug
+Site Status
+Web-Ext: build & test extensions
+Compatibility Checker
+Promote
+Get Your Add-on Featured
+\"Get The Add-on\" button
+Legal
+Report Trademark Abuse
+Legal Notices
+Review Add-ons
+Volunteer reviewers help keep add-ons safe and reliable to use. They enjoy great perks too!
+Join us!
+Write Some Code
+Help make add-ons better by contributing your coding skills.
+Get started
+More Ways to Participate
+You don't need coding skills to help keep Firefox the most customizable browser available!
+See how
+Manage Your Add-on
+Sign In to Edit and Update Your Add-on
+Resources for a successful launchYou've built your extension and are ready to publish it. What comes next? Check out our tips for creating an appealing listing page, getting your extension featured on addons.mozilla.org, finding answers to development questions, and staying up-to-date with news and events relevant to extension developers.
+View Resources for Publishers
+Welcome Back
+Help users discover your extension by creating an appealing listing.
+Learn How
+Want your extension to be featured on addons.mozilla.org? Our featured extensions policies will tell you what you need to know.
+Learn More
+View All Submissions
+This is where you view and manage your add-ons and themes. To publish your first add-on, click \"Submit Your First Add-on\" or \"Submit Your First Theme\".
+Submit Your First Add-on
+Submit Your First Theme
+Add-on Developer Hub
+Docs
+Sign Out
+No Photo
+User Photo
+Register or Sign In
+Customize FirefoxAdd-ons let millions of Firefox users enhance their browsing experience. If you know HTML, JavaScript, and CSS, you already have all the necessary skills to make a great add-on.
+Learn How to Make an Add-on
+Port a Chrome ExtensionFirefox supports WebExtension APIs, which in most cases are compatible with the extension APIs supported by Chrome, Opera and Edge, so your extensions will run in Firefox with just a few changes.
+Publish Your Add-on
+Have an add-on ready? Submit your extension or theme to be listed on addons.mozilla.org or sign and distribute your extension on your own.
+Sign In
+Web-Ext
+A command line tool to build, run, and test extensions.
+Automated code tests for your add-on.
+Compatibility Test
+Check to see if your extension is compatible with Firefox.
+Transfer ownership
+Theme Details
+Supply a pretty URL for your detail page.
+Select the category that best describes your Theme.
+Add some tags to describe your Theme.
+A short explanation of your theme's basic functionality that is displayed in search and browse listings, as well as at the top of your theme's details page.
+Theme License
+Can others share your Theme, as long as you're given credit?
+The licensor permits others to copy, distribute, display, and perform the work, including for commercial purposes.
+The licensor permits others to copy, distribute, display, and perform the work for non-commercial purposes only.
+Can others make commercial use of your Theme?
+Can others create derivative works from your Theme?
+The licensor permits others to copy, distribute, display and perform the work, as well as make derivative works based on it.
+The licensor permits others to copy, distribute and transmit only unaltered copies of the work — not derivative works based on it.
+Your Theme will be released under the following license:
+Select a license for your Theme.
+Theme Design
+Upload New Design
+Upon upload and form submission, the AMO Team will review your updated design. Your current design will still be public in the meantime.
+Your previously resubmitted design, which is under pending review.
+Pending Header
+You may update your theme design here once it has been approved.
+Header
+Select colors for your Theme.
+Foreground Text
+This is the color of the tab text.
+Background
+This is the color of the tabs.
+Your Theme's Name
+by 
+Create a New Theme
+Background themes let you easily personalize the look of your Firefox. Submit your own design below, or learn how to create one!
+Give your Theme a name.I agree to the Firefox Add-on Distribution Agreement and to my information being handled as described in the Websites, Communications and Cookies Privacy Notice.
+Submit Theme
+You're done!
+Your theme has been submitted to the Review Queue. You'll receive an email once it has been reviewed, typically within 24 hours.
+Next steps:
+Provide more details about your theme by editing its listing.
+View and subscribe to your theme's activity feed to stay updated on reviews, collections, and more.
+Join the conversation in our forums.
+Select a header image for your Theme.
+3000 × 200 pixels
+300 KB max
+PNG or JPG
+Manage Version 
+Manage 
+Files
+Upload Another File
+Version NotesInformation about changes in this release, new features, known bugs, and other useful information specific to this release/version. This information is also shown in the Add-ons Manager when updating.
+Approval Status
+Notes for Reviewers
+Optionally, enter any information that may be useful to the Reviewer of this add-on, such as test account information.
+Source code
+If your add-on contain binary or obfuscated code, make the source available here for reviewers.
+File  ()
+Created on  and changed to  on 
+Created on  and changed to 
+Status & Versions
+Edit this version
+0 files
+Re-enable Version
+Close Review History
+Not validated.
+Validate now.
+Request Review
+Cancel Review Request
+Loading Review History...
+We had a problem retrieving review notes
+Load older...
+Leave a reply
+Reply
+Listing visibility
+Visible: Visible to everyone on  and included in search results and listing pages.Invisible: Won't be included in search results, and its listing page will indicate you disabled it. New version submissions for listing won't be accepted in this state.
+Listed versions
+Currently on AMO
+Validation
+Delete/Disable
+Next version of this add-on
+Other versions
+All versions
+Upload a New Version
+Delete Version You are about to delete the current version of your add-on. This may cause your add-on status to change, or your listing to lose public visibility, if this is the only public version of your add-on.
+Deleting this version will permanently delete:
+Important: Once a version has been deleted, you may not upload a new version with the same version number.
+Are you sure you wish to delete this version?
+Delete Version
+Disable Version
+Hide Add-on
+Hiding your add-on will prevent it from appearing anywhere in our gallery and will stop users from receiving automatic updates.
+The files awaiting review will be disabled and you will need to upload new versions.
+Are you sure you wish to hide your add-on?
+Canceling your review request will mark your add-on incomplete, and any versions awaiting review will be disabled.
+Are you sure you wish to cancel your review request?
+Add-on Documentation :: Developer Hub
+ error
+ errors
+ warning
+ warnings
+Leave a clean digital trail with 
+Make Firefox forget website data like cookies and local storage, but only for domains you choose.
+Improve videos with  
+Enjoy a suite of new YouTube features, like cinema mode, ad blocking, auto-play, and more.
+Stop sneaky trackers with 
+Block invisible trackers and spying ads that follow you around the web.
+Up your emoji game with 
+Dozens of amazing emojis for every occasion—just a click away.
+Download videos with 
+Works seamlessly with most popular video sites.
+Tab Customization with 
+Set the page you see every time you open a new tab.
+Enhance your emoji game with 
+Dozens of amazing emojis for every occasion—always just one click away.
+Take screenshots with 
+More than just a basic screenshot tool, Awesome Screenshot Plus lets you annotate images with custom text and graphics, plus the ability to store and share your visuals.
+Customize new tab pages with 
+Enjoy a beautiful new page with customizable backgrounds, local weather info, and more.
+Translate easily with 
+Highlight any text, right-click, and translate instantly.
+Search Images with 
+Perform reverse image searches from an array of engines.
+Ad blocking & privacy protection with 
+A simple set-up lets you take control of the ads you see and how you’re tracked on the internet.
+Re-imagine tabs with 
+Do you have a ton of open tabs? Organize them in a tidy sidebar.
+Stop Facebook tracking with 
+Isolate your Facebook identity into a separate “container” that makes it harder for Facebook to track your movements around the web.
+Simplify search with 
+Just highlight text on any web page to search the phrase from an array of engines.
+Instant weather updates with 
+Get instant global weather information right in Firefox.
+Choose the page you see every time you open a new tab.
+Reverse image search with 
+See an interesting picture on the web and want to learn more about it? Try this image search tool.
+Works with YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, and hundreds of other video sites.
+Dozens of amazing emojis for every occasion—always just a click away.
+Manage passwords with 
+Simplify and sync all your various website logins across devices with one password to rule them all.
+Block ads with 
+A lightweight and effective ad blocker. uBlock Origin enforces thousands of content filters without chewing up a bunch of memory.
+Improve videos with 
+Enjoy a suite of new YouTube features, like cinema mode, ad blocking, auto-play control, and more.
+Easily find images with 
+Highlight any text and right-click to quickly perform an image search.
+Enjoy visual bookmarks with 
+Access your favorite sites from a tile layout.
+Access knowledge with 
+Automatically add Britannica facts to your search results.
+Remove YouTube Ads with 
+Block annoying ads and annotations from appearing on YouTube.
+Read anywhere with 
+Send news articles, stories, blog posts, and more to your Kindle.
+Color code your tabs with 
+Organize your tabs by color grouping them based on URL patterns.
+Prevent cryptocurrency mining with 
+Stop malicious websites from using your computer power to mine for cryptocurrency.
+Automatic grammar checks with 
+Get grammar help anywhere you write on the web—social media, email, docs, and more.
+Check global times with 
+Display current worldwide times in Firefox's status bar.
+Easy translations with 
+Highlight text on any webpage—or select the entire page— to translate instantly.
+Tap academic wisdom with 
+Enjoy free access to 10+ million research papers.
+Customize mouse gestures with 
+Discover a new way to navigate with 50+ helpful mouse gestures.
+Optimize videos with 
+Darken the page around video players for a focused viewing experience.
+Search in good conscience with 
+Ecosia uses 80% of its search profits to fund tree-planting programs around the world. Put Ecosia right into Firefox search
+Find missing web content  with 
+Is the page you're looking for unavailable? Search for an archived/cached version.
+Find missing web content with 
+Enlarge images with 
+Simply hover over an image to magnify it.
+Make cookies disappear with 
+Automatically erase cookies after you close a tab.
+Adjust page size view with 
+A simple way to adjust the size of any page's text—or even enlarge the page itself.
+Block invisible trackers with 
+Stop trackers in their tracks and learn more about them.
+Save text for later with 
+Stop writing the same thing over and over again! If you frequently re-use the same phrases in your work or other communications, save them in Clippings and easily paste them when needed.
+Block email ads with 
+Get more screen space by removing ads from your web-based inbox.
+Find your tabs with 
+Manage your open tabs in a tidy sidebar.
+Avoid sneaky trackers and restrictions with 
+Disguise your navigation by cloaking the identity of your browser and operating system.
+Refresh tabs with 
+Automatically reload tabs based on time intervals you set.
+Separate your online lives with 
+Privately distinguish your various online identities—work, personal, etc.—through color-coded tabs that split your digital cookie trail.
+Stop trackers with 
+Gain an additional layer of tracking protection as you browse the web.
+Read ePub files with 
+Enjoy ePub files right in Firefox—increase font size, page dimensions, and more.
+Elevate your YouTube experience with 
+Play videos by default in the highest quality, turn off annotations, and more.
+Track the trackers with 
+Get a glimpse into who's tracking you with just a click.
+Change your proxy server with 
+Surf the web through self-defined proxy settings.
+Control video playback with 
+Enhance your viewing experience by adjusting video speed and more.
+Browse securely with 
+Add encrypted security to any site that supports HTTPS.
+Shop & save with 
+Get the best coupons automatically applied to your shopping cart at checkout.
+Swift translations with 
+Translate highlighted text or the entire webpage
+Improve Reddit with 
+Change the way you surf Reddit by using tags and more.
+Capture the web with 
+Screenshot webpages, make edits, and share.
+A superior Windows-only downloader tool.
+Know your trackers with 
+Find out who's tracking you and where they may be sharing your information.
+Surf anonymously with 
+Browse the web with disguised identity—even appear as if you're browsing from another country.
+Access your favorite sites, recently closed tabs, and more—all from a gorgeous tile layout.
+Set your homepage with 
+Designate a custom home page for your new tabs.
+List your tabs with 
+Convert all your open tabs into a list to easily manage them and speed up Firefox.
+Robust download management with 
+Check the state of your downloads through a status bar, download history page, and more.
+Capture web content with 
+Save information from the internet to OneNote so you can edit, annotate, and more.
+Search tracking protection with 
+Stop trackers when you click Google and Yandex search returns.
+Dynamic navigation with 
+Use mouse gestures to close tabs, go back one page, reload, and more.
+Add images to search returns with 
+Enjoy thumbnail images alongside your search returns.
+Ease eye strain with 
+Make the web easier on the eyes by darkening its display.
+Stop pop-ups with 
+Block all pop-ups by default, then decide which ones you'd like to open.
+Customize your favorite websites with 
+Change the look of any website! Shift colors, page backgrounds, and more.
+Customize your new tab with 
+Edit the new tab page to display your preferred number of tiles, background image, and more.
+Get quick translations with 
+Highlight text on any website, right-click, and translate instantly.
+Manage your passwords with 
+Store passwords securely and access them across multiple devices.
+Know where you go on the web with 
+Get the country location for websites you visit. Be an informed internet traveler.
+Enhance your reading experience with 
+Make the text you're reading more appealing by removing the clutter around it.
+Open multiple links with 
+Right-click and drag over links you want open in new tabs.
+Retrieve tabs with 
+Access recently closed tabs by right-clicking the icon in your toolbar.
+Inspire productivity with 
+Modify your new tab page to display a beautiful background, set your daily focus, and more.
+View images with 
+Brings back the \"View image\" button while searching on Google Images.
+Increase productivity with 
+Block time-wasting sites so you can focus on the task at hand.
+Refresh Tabs with 
+Automatically reload tabs based on time intervals.
+Fix your favorites with 
+Find and resolve broken bookmarks, duplicates, and more.
+Stress less with 
+Get things done with a helpful to-do list that syncs across devices.
+Shop Smarter with 
+Track historical pricing, find competing products, know the seller's ratings, and more.
+Make it your YouTube with 
+Play videos in a pop-out window, only see ads within subscribed channels, take video screenshots, and so much more.
+Explore website traffic with 
+Get in-depth engagement and traffic information for any website.
+Style Wikipedia with 
+Applies a fresh and modern appearance to Wikipedia.
+Work faster with 
+Use mouse gestures to get to things done—quicker.
+Disguise the page with 
+Hide portions of the website you're viewing.
+Download pictures with 
+Grab images from any website and download them.
+Mask your location with 
+Disguise your location to throw off trackers and protect your privacy.
+Self-censor with 
+Restrict access to inappropriate or undesired content with a filter.
+Improve new tabs with 
+Open a new tab to the right of your current tab, not at the end of the row.
+Conquer spam with 
+Use clever temporary email addresses to remain anonymous and avoid spam.
+Alter your privacy with 
+Easily customize the built-in privacy settings in Firefox.
+Enhance your experience on VK with 
+Remove ads and download audio from VK.
+Get instant translations with 
+Access immediate translation by highlighting text and clicking the button that pops up.
+Customize new tabs with 
+Get creative and customize your new tab page by displaying your favorite sites and selecting a theme.
+No more redirects with 
+Go straight to the website you want to access without being redirected in between.
+WhatsApp on the web with 
+Access WhatsApp from within Firefox's toolbar panel to get badge notification of unread threads.
+Translate to/from German with 
+Get expert German translations between English, French, Spanish, and other languages.
+Create a website block list with 
+Restrict Firefox from accessing websites you define.
+Work smarter with 
+Manage your productivity by working in set time intervals.
+Easy reading with 
+Check your favorite RSS feeds all in a single page.
+Reduce eye strain with 
+Enable night mode for a better viewing experience.
+Search images with 
+Reverse image search by leveraging the power of multiple search providers.
+Save it for later with 
+Store web pages to access across devices.
+Easily select bookmark locations with 
+A better way to save bookmarks if you use multiple bookmark folders.
+Zero formatting with 
+Strip away unnecessary formatting and copy just the plain text.
+Get instant translatations with 
+Convert an entire webpage to your preferred language—with the click of a button.
+Extract links with 
+Instantly display all links from a webpage in new tabs.
+View documents with 
+Access PDFs using your preferred PDF application.
+Skip redirects & trackers with 
+Strip away redirect pages and URL tracking parameters.
+Stop search trackers with 
+Prevent search engines from knowing what search results you click on.
+Download YouTube videos with 
+Download video and/or audio.
+Gather reading material with 
+An advanced reader for aggregating all of your RSS/Atom/RDF sources.
+Jot it down with 
+Create general and website-specific notes to review later.
+Phone-like scrolling with 
+Features \"grab-n-drag\" mouse scrolling for desktop webpages.
+Delete data with 
+Clear your browser cache with a click or keystroke.
+Never forget again with 
+Create and manage a to-do list in your browser.
+Highlight text with 
+Enjoy a highly customizable text highlighter with different colors and save options.
+Enjoy music from around the world with 
+Access 20,000+ radio stations from all over the globe.
+Listen to videos with 
+Save bandwidth by just streaming the audio from YouTube clips.
+Transform text into images with 
+Turn words into beautiful headlines and image overlay text.
+Surf safely with 
+Navigate to the secure version of a website if it's available.
+Delete your navigation history with 
+Specify a custom number of days to retain browser history before it's automatically cleared.
+Remove search ads with 
+Stop ads from appearing within your search results.
+Manage passwords safely with 
+Store passwords securely and sign in to known websites automatically.
+Block ads & tracking with 
+Protect your privacy by blocking ads and trackers (plus, you'll speed up page loads).
+Fill forms automatically with 
+Save entered data once and it will autofill next time.
+Browse privately with 
+Jump into private browsing mode with a click.
+Stop tab hijacking with 
+Don't let clicked links take control of your current tab and load content you didn't ask for.
+Easily access Wikipedia with 
+Perform a Wikipedia search by simply highlighting text from any webpage and right-clicking.
+Discover site-specific content with 
+Find what you're looking for within a specific domain.
+Find videos with 
+Highlight text from any website and right-click to search YouTube for related media.
+Gain an Amazon edge with 
+When looking at product pages on other online shops, if it's also available on Amazon you can simply click a button to check its Amazon listing.
+Tweet it out with 
+Easily broadcast web content to your Twitter following.
+Ultimate tab control with 
+So many tab control options—close duplicate tabs, merge windows, copy the tab title, and more.
+Enjoy a strange education with 
+Load a random Wikipedia article each time you open a new tab.
+Change up your new tab with 
+Configure new tab pages to display custom background colors and images.
+Cat lovers rejoice with 
+Meet an adorable kitty with every new tab. Give it a scratch behind the ear and see what happens.
+Decrease productivity with 
+For those moments when you need to fire lasers out of a cat.
+Search Firefox with 
+Easily access your open tabs, bookmarks, and history.
+Lots of open tabs? Skip the scrolling and search via keyboard shortcuts.
+Explore what's beneath with 
+Uncover the software that supports whatever website you're visiting.
+Prevent redirects & tracking with 
+Stop redirects so you can access the site you want—faster.
+Reveal typed passwords with 
+Adds show/hide ability to all password fields.
+Reduce distractions with 
+Focus on what you're watching by dimming everything but the video player.
+Manage bookmarks with 
+Modify your bookmarks through an easily accessible panel.
+Keep passwords safe with 
+Store passwords securely and sign in automatically to known websites.
+A simple ad blocker focused on displaying just the content you want.
+Track Amazon Pricing History with 
+Make informed decisions by tracking the price of a product listed on Amazon.
+Shop with confidence with 
+An extra check to ensure you're shopping on a site that's been vetted for reliability.
+Track productivity with 
+Measure the amount of time you spend on the computer, or on specific work apps like Trello, JIRA, Basecamp, GitHub, and many more.
+Clip web content like articles, videos, images, and more to save and use for individual projects or real-time team collaboration.
+Surf securely with 
+Only allow web content to run from sites you trust.
+Manage cookies with 
+Take full control of the cookies you've accumulated while browsing.
+Forget history with 
+Automatically delete browser history for websites you select.
+Safeguard Bookmarks with 
+Password-protect your personal bookmarks.
+Prevent IP address leaks with 
+Do you use a VPN? Your IP address may leak. Put a stop to that by disabling WebRTC.
+Close annoying overlays with 
+Simply click a button to close annoying pop-up overlays.
+Investigate any image with 
+Find an interesting image on the web? Use TinEye to explore its origins.
+Streamline things with 
+Just drag text, images, or links to perform actions like copy, open, search, and more.
+Harness the ability to download video and/or audio in multiple formats.
+Location awareness with 
+Learn where any website's server is geographically located. Be an informed web traveler.
+Fix annoying audio with 
+Is the volume on a website too quiet? Too loud? SoundFixer can help.
+Edit before printing with 
+Make extraordinary visual changes—remove ads or unsavory content—to any webpage you want to print.
+Track Amazon pricing history with 
+Make knowledgeable decisions by tracking and receiving alerts for the price of a product listed on Amazon.
+Master audio with 
+Adjust browser audio settings with extreme clarity.
+Privacy protection with 
+Defend yourself against the sneakiest trackers.
+Cover your tracks with 
+Search with more security with tracker blocking, smarter encryption, private search, and other essentials.
+File viewer is locked, extraction for  could be in progress. Please try again in approximately 5 minutes.
+There was an error accessing file .
+That file no longer exists.
+File size is over the limit of .
+Problems decoding .
+This file is not viewable online. Please download the file to view the contents.
+This file is a directory.
+Cannot diff a version against itself
+Access your data for 
+Access your data on the following websites:
+Access your data for all websites
+GUID is required for Firefox 47 and below.
+Lowest supported \"strict_min_version\" is 42.0.
+Cannot find min/max version. Maybe \"strict_min_version\" or \"strict_max_version\" contains an unsupported version?
+Could not parse uploaded file, missing or empty  element
+Could not parse uploaded file.
+Invalid file name in archive. Please make sure all filenames are utf-8 or latin1 encoded.
+Invalid file name in archive: 
+File exceeding size limit in archive: 
+Invalid archive.
+Could not parse the manifest file.
+Could not find an add-on ID.
+The add-on ID in your manifest.json or install.rdf () does not match the ID of your add-on on AMO ()
+Duplicate add-on ID found.
+Version numbers should have fewer than 32 characters.
+Version numbers should only contain letters, numbers, and these punctuation characters: +*.-_.
+WebExtension theme uploads are currently not supported.
+You cannot submit this type of add-on
+You cannot submit an add-on with a guid ending 
+You cannot submit a Mozilla Signed Extension
+Unexpected error.
+ in your install.rdf () does not match the type of your add-on on AMO ()
+Back to review
+Back to add-on
+Version:  • Size:  • SHA256 hash:  • Mimetype: 
+File Compare :: Reviewer tools
+File Viewer :: Reviewer tools
+Validation failed:
+File content not supported for syntax highlighting
+The output can be broken, please be careful and report an issue immediately!
+Add-on file being processed, please wait.
+Fetching validation results...
+Files:
+Deleted files:
+Hide known files
+Add-on SDK Version:
+Tab stops:
+Up file
+Down file
+Previous diff
+Previous note
+Next diff
+Next note
+Expand all
+Hide or unhide tree
+Wrap or unwrap text
+No files in the uploaded file.
+Fetching file.
+The API version, , you are using is not valid. Please upgrade to the current version  API.
+Not implemented yet.
+Shopping Made Easy
+Save on your favorite items from the comfort of your browser.
+Build the perfect website
+First time with Add-ons?
+Not to worry, here are three to get started.
+Translate content on the web from and into over 40 languages.
+Easily connect to your social networks, and share or comment on the page you're visiting.
+A quick view to compare prices when you shop online or search for flights.
+St. Patrick’s Day Themes
+Decorate your browser to celebrate St. Patrick’s Day.
+A+ add-ons for School
+Add-ons for teachers, parents, and students heading back to school.
+Would you like to know which websites you can trust?
+Xmarks is the #1 bookmarking add-on.
+Web page and text translator, dictionary, and more!
+Love is in the Air
+Add some romance to your Firefox.
+Get up and move!
+Install these fitness add-ons to keep you active and healthy.
+New & Now
+Get the latest, must-have add-ons of the moment.
+Worry-free browsing
+Protect your privacy online with the add-ons in this collection.
+Great add-ons for work, fun, privacy, productivity... just about anything!
+Games!
+Add more fun to your Firefox. Play dozens of games right from your browser—puzzles, classic arcade, action games, and more!
+Must-Have Media
+Take better screenshots, improve your online video experience, finally learn how to make a GIF, and other great media tools.
+Discover Add-ons
+What are Add-ons?
+Add-ons are applications that let you personalize  with extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make  your own.
+Learn More About Add-ons
+See all
+More ways to customize
+Browse all add-ons
+See all complete themes
+Close Video
+While the video plays, the add-ons being mentioned will appear here.
+Hi, 
+Thanks for using  and supporting Mozilla's mission!
+Add-ons downloaded:
+View Privacy Policy
+Active Users
+Last Updated
+Cancel Installation
+Mozilla’s Pick of the Month!
+Become a Test Pilot
+Unlock early access to experimental browser features.
+Get Started
+About Mozilla Add-ons
+What is this website?addons.mozilla.org, commonly known as \"AMO\", is Mozilla's official site for add-ons to Mozilla software, such as Firefox, Thunderbird, and SeaMonkey. Add-ons let you add new features and change the way your browser or application works. Take a look around and explore the thousands of ways to customize the way you do things online.
+Who creates these add-ons?The add-ons listed here have been created by thousands of developers from our community, ranging from individual hobbyists to large corporations. All publicly listed add-ons are reviewed by a team of reviewers before being released. Add-ons marked as Experimental have not been reviewed and should only be installed with caution.
+How do I keep up with what's happening at AMO?
+There are several ways to find out the latest news from the world of add-ons:
+Our Add-ons Blog is regularly updated with information for both add-on enthusiasts and developers.
+We often post news, tips, and tricks to our Twitter account, mozamo
+Our forums are a good place to interact with the add-ons community and discuss upcoming changes to AMO.
+This sounds great! How can I get involved?
+There are plenty of ways to get involved. If you're on the technical side:
+Make your own add-on. We provide free hosting and update services and can help you reach a large audience of users.If you have add-on development experience,  become an Add-on Reviewer! Our reviewers are add-on fans with a technical background who review add-ons for code quality and stability.Help improve this website. It's open source, and you can file bugs and submit patches.  GitHub contains all of our current bugs, legacy bugs can still be found in Bugzilla.
+If you're interested in add-ons but not quite as technical, there are still ways to help:
+Tell your friends! Let people know which add-ons you use.
+Participate in our forums.
+Review add-ons on the site. Add-on authors are more likely to improve their add-ons and write new ones when they know people appreciate their work.
+I have a question
+A good place to start is Support Mozilla. If you don't find an answer there, you can  ask on our forums.
+If you really need to contact someone from the Mozilla team, please see our  contact information page.
+Who works on this website?
+Over the years, many people have contributed to this website, including both volunteers from the community and a dedicated AMO team.
+Sections
+Some tips for writing a great review
+Frequently Asked Questions about ReviewsAdd-on reviews are a way for you to share your opinions about the add-ons you’ve installed and used. Our review moderation team reserves the right to refuse or remove any review that does not comply with these guidelines.
+Do:
+Write like you are telling a friend about your experience with the add-on.
+Keep reviews concise and easy to understand.
+Give specific and helpful details. For example:
+Did the add-on work as you expected it to?
+What features did you like or dislike?
+Was it useful?
+Was it easy to use?
+Will you continue to use this add-on?
+Take a moment to read your review before submitting it to minimize typos.
+Don’t:
+Submit one-word reviews such as \"Great!\", \"wonderful,\" or \"bad.\"Post technical issues, support requests, or feature suggestions. Use the available support options for each add-on, if available. You can find them in the side column next to the About this Add-on section.
+Write reviews for add-ons which you have not personally used.
+Use profanity, sexual language or language that can be construed as hateful.
+Include HTML, links, source code or code snippets. Reviews are meant to be text only.
+Make false statements, disparage add-on authors or personally insult them.
+Include your own or anyone else’s email, phone number, or other personal details.
+Post reviews for an add-on you or your organization wrote or represent.Criticize an add-on for something it’s intended to do. For example, leaving a negative review of an add-on for displaying ads or requiring data gathering, when that is the intended purpose of the add-on, or the add-on requires gathering data to function.
+How can I report a problematic review?Please report or flag any questionable reviews by clicking the \"Report this review\" and it will be submitted to the site for moderation. Our moderation team will use the Review Guidelines to evaluate whether or not to delete the review or restore it back to the site.
+I’m an add-on author, can I respond to reviews?
+Yes, add-on authors can provide a single response to a review. You can set up a discussion topic in our forum to engage in additional discussion or follow-up.
+I’m an add-on author, can I delete unfavorable reviews or ratings?In general, no. But if the review did not meet the review guidelines outlined above, you can click \"Report this review\" and have it moderated. If a review included a complaint that is no longer valid due to a new release of your add-on, we may consider deleting the review.
+Start Now
+Mozilla wants to figure out the best way to keep our users safe if they choose to use third-party software such as plugins. Participating in this study will help us find out!
+What will happen next
+If you agree to participate:
+We may add security and plugin control features to Firefox to help with online security and performance.
+Continue using Firefox as you normally would. Depending on how you use the Web, you may not notice any changes.
+After a few weeks, the study will end on its own. Your Firefox will go back to normal.
+We will ask you to fill out a quick optional survey to tell us about your experience. The survey should take less than 5 minutes to complete.
+Leaving the study
+The study will expire on its own in a few weeks. You may leave the study early. To do so, follow these steps:
+Type about:addons into the location bar, and press enter.
+Find Plugin Safety in the addons list.
+Click the remove button.
+If you opt out of the study early we will ask you to fill out a survey. We’re interested in hearing about your experience, even if you didn’t participate in the entire study.
+Opting out of a study does not prevent you from participating in future studies.
+Your privacy
+All Shield Studies
+Every Shield Study collects data about important study events, such as install, uninstall, daily usage, and end of study. Studies also include an optional survey.
+This data is associated with Firefox Telemetry collection.
+This particular Study
+In addition to the data collected by all Shield Studies, Mozilla will collect information about:
+Websites you visit that try to use plugins, and what content on the site requires the plugin;
+How you interact with plugin content on those sites, including whether and how you choose to allow the plugin to run.
+Mozilla will keep this information private; any data will only be shared in aggregate or anonymized form.
+You can learn more about the data collection for this study here.
+You Help Make Firefox BetterAt Mozilla, we pride ourselves on building products for you, the user! That’s why we need your help. By participating in this study, you will help us to make better decisions on your behalf and directly shape the future of Firefox!
+Brought to you by:
+Reviews for 
+Review History for this Addon
+Rated  out of 5 stars
+A short explanation must be provided when selecting \"Other\" as a flag reason.
+Spam or otherwise non-review content
+Inappropriate language/dialog
+Misplaced bug report or support request
+Other (please specify)
+This field is required.
+You can't change the add-on of a review once it has been created.
+You can't reply to a review that is already a reply.
+You can't change the version of the add-on reviewed once the review has been created.
+This version of the add-on doesn't exist or isn't public.
+You can't leave a review on your own add-on.
+You can't leave more than one review for the same version of an add-on.
+This rating can't be flagged because it has no review text.
+Thanks; this review has been flagged for reviewer approval.
+Add a review for Keep these tips in mind:   Write like you're telling a friend about your experience with the add-on. Give specifics and helpful details, such as what features you liked and/or disliked, how easy to use it is, and any disadvantages it has. Avoid generic language such as calling it \"Great\" or \"Bad\" unless you can give reasons why you believe this is so.   Please do not post bug reports here. We do not make your email address available to add-on developers, so they can't contact you to resolve your issue. See this add-on's support section to find out if assistance is available. You can also try asking the add-on community for help.  Please keep reviews clean, avoid the use of improper language and do not post any personal information.   Please read the Review Guidelines for more detail about user add-on reviews.
+Reply to review by 
+Write a Reply
+Submit
+or Cancel
+Please select a reason:
+by  (Developer) on 
+This review is for a previous version of the add-on ().
+This user has a previous review of this add-on.
+This user has  previous reviews of this add-on.
+This user has other reviews of this add-on.
+Flagged for review
+Report this review
+Reply to review
+Edit reply
+Edit review
+Delete reply
+Delete review
+ :: Reviews
+Reviews for 
+ review for this add-on
+ reviews for this add-on
+Developer reply by 
+Review for  by 
+Reviews for  by 
+No reviews found.
+Average ()
+Write a New Review
+Be the first to write a review.
+ review
+ reviews
+Rated  out of 5 stars
+Rated  out of 5 stars
+Approved reviews
+Deleted reviews
+View entries between
+and
+Filter by type/action
+containing
+start
+end
+add-on, reviewer or comment
+Search by add-on name / author email
+Needs Admin Code Review
+yes
+no
+Add-on Types
+Search by add-on name / author email / guid
+Max. Version
+Comments:
+Operating systems:
+Applications:
+Require developer to respond in less than…
+days
+Choose a canned response...
+theme name
+Someone else is reviewing this theme.
+theme, reviewer, or comment
+Private Whiteboard
+Keep review; remove flags
+Skip for now
+Needs Admin Content Review
+Needs Admin Static Theme Review
+Jetpack Add-on
+More Information Requested
+Expired Information Request
+Contains Reviewer Comment
+Sources provided
+WebExtension
+Is locked by a reviewer.
+Has auto-approval disabled flag set.
+Duplicate Submission
+Thanks for submitting your Theme
+A problem with your Theme submission
+Theme submission flagged for review
+A question about your Theme submission
+Type
+Waiting Time
+Flags
+moments ago
+ minute
+ minutes
+ hour
+ hours
+ day
+ days
+Last Review
+Last Update
+No Reviews
+Weight
+Information Request Deadline
+Last Content Review
+This will approve, sign, and publish this version. The comments will be sent to the developer.
+This will reject this version and remove it from the queue. The comments will be sent to the developer.
+Confirm Approval
+The latest public version of this add-on was automatically approved. This records your confirmation of the approval of that version, without notifying the developer.
+Reject Multiple Versions
+This will reject the selected public versions. The comments will be sent to the developer.
+Reviewer reply
+This will send a message to the developer. You will be notified when they reply.
+Request super-review
+If you have concerns about this add-on that an admin reviewer should look into, enter your comments in the area below. They will not be sent to the developer.
+Make a comment on this version. The developer won't be able to see this.
+Approve Content
+This records your approbation of the content of the latest public version, without notifying the developer.
+Static Themes and Legacy Add-ons
+Static Themes
+Legacy Add-ons
+New ()
+Updates ()
+Review Log
+Add-on Review Guide
+Theme Review Guide
+Auto-Approved Add-ons
+Auto Approved Add-ons ()
+Add-on Review Log
+Review Guide
+Content Review
+Content Review ()
+Content Review ()
+New Themes ()
+Themes Updates ()
+Flagged Themes ()
+Lightweight Themes Review Log
+Deleted Themes Log
+User Ratings Moderation
+Ratings Awaiting Moderation ()
+Moderated Review Log
+Moderation Guide
+Unlisted Add-ons
+All Unlisted Add-ons
+Announcement
+Update message of the day
+Expired Information Requests ()
+An unknown error occurred
+Self-reviews are not allowed.
+Review successfully processed.
+Review lock limit reached
+ theme review successfully processed (+ points,  total).
+ theme reviews successfully processed (+ points,  total).
+Your theme locks have successfully been released. Other reviewers may now review those released themes. You may have to refresh the page to see the changes reflected in the table below.
+ :: Abuse Reports
+Abuse Reports for  and its developers ()
+Works with
+Visibility
+Visible
+Average Daily Users
+Abuse Reports
+Requires Payment
+EULA
+Last Approval Date
+Abuse Reports ()
+Bad User Ratings ()
+Theme Images
+Rendered Preview
+Background file  of  - 
+More about this add-on
+Image Gallery
+Nothing to see here!  The developer did not include any details.
+Return to the Reviewer Tools dashboard
+Reviewer Leaderboard
+No review points awarded yet.
+Rank
+Score
+Filter
+Date
+Event
+More details.
+No events found for this period.
+Log details
+Review Author
+Add-on Title
+Review Text
+Review was flagged prior to deletion.
+Undelete
+Save
+Add-on Reviewer Performance
+View statistics for user
+Range
+Your Reviews
+By 
+Total Reviews
+Active Contributors
+This Month
+This Year
+Monthly Performance
+All-time Point Breakdown by Type
+Total
+Month
+Year
+All-Time
+Advanced Search
+clear search
+Process Reviews
+Moderation actions:
+by  on   ()
+ Flagged by  on 
+All reviews have been moderated. Good work!
+There are currently no add-ons of this type to review.
+Helpful Links:
+Add-on Policy
+Reviewer's Guide
+Content Review 
+Review 
+Add-on user change history
+Add-on History
+Version  ·  · 
+(Confirmed)
+Compatibility:
+Additional sources:
+Download files
+The developer has provided source code.
+Weight:
+Not Auto Approved Because
+Auto-Approval script has not run yet on this version.
+This version has not been reviewed.
+Please select one or more versions in the list above.
+You can still submit this form, however only do so if you know it won't conflict.
+Insert canned response...
+Tested on:
+Warning! Another user was viewing this page before you.
+The whiteboard is the place to exchange information relevant to this addon (whatever the version), between the developer and the reviewer. This is visible and editable by both.
+The private whiteboard is used for exchanging information between reviewers that is independent of the version. Please keep the language objective. It is visible only to reviewers.
+Update whiteboards
+More Actions
+Notify me about new listed versions
+Force-disable add-on
+Force-enable add-on
+Disable Auto-Approval
+Enable Auto-Approval
+Clear information request
+Clear Admin Code Review Flag
+Clear Admin Content Review Flag
+Clear Admin Static Theme Review Flag
+(admin)
+Admin Page
+Review This Add-on
+More Information
+Resolution
+Reviewer
+Add-on has been deleted.
+Show Comments
+Hide Comments
+No reviews found for this period.
+ [] reported  on 
+Dismiss this announcement
+Files in this version:
+Contents
+Compare
+Permissions:
+By  on 
+Older
+Newer
+Recent Points
+No points awarded yet.
+Top Reviewers (past 7 days)
+No top reviewers yet.
+All Time
+You have  points.
+ on  []
+Date Deleted
+No deleted themes found for this period.
+Theme Review History for 
+Review Date
+Action
+Reason
+There are currently no reviews.
+Flagged Themes
+Theme Review Queue
+Queues
+Review Options
+Auto-advance after review
+Enable keyboard shortcuts
+Keyboard Shortcuts
+Next Theme
+Previous Theme
+Your Review History
+Commit Review
+Commit Reviews
+ out of  reviewed
+There are currently no Themes to review.
+Clear Search
+Release My Theme Locks
+Interactive Theme Queue
+Reviewers' Guide
+Theme Review for 
+(Probable Duplicate Submission)
+Past Review Notes
+More Info Requested: 
+Flagged: 
+Approve Theme
+Field required
+Enter the ID or URL of the duplicate
+Select a reason for rejection
+Describe your reason for rejection
+Ask a question to the artist
+Describe your reason for flagging
+Rejected or Unreviewed
+[status:]
+Update ()
+Updates ()
+Rating Review ()
+Rating Reviews ()
+Auto Approved ()
+Auto Approved ()
+Expired Info Request ()
+Expired Info Requests ()
+Flagged
+Updates
+Maximum query length exceeded.
+search for add-ons
+search for themes
+search for apps
+Relevance
+All Add-ons
+Any 
+All Systems
+All Tags
+Collection Search Results for 
+Collection Search Results
+Search Results
+Search Unavailable
+Search is temporarily unavailable. Please try again in a few minutes.
+Themes Search Results for 
+Themes Search Results
+ :: Search
+Search Results for \"\"
+ :: Tag
+Search Results for tag \"\"
+ matching result
+ matching results
+Filter Results
+Category
+Tag
+Showing  -  of  results for 
+Showing  -  of  results
+Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly.
+Could not find add-on with id \"\".
+You do not own this addon.
+Missing \"upload\" key in multipart file data.
+You cannot add versions to an addon that has status: .
+Version does not match the manifest file.
+Version already exists.
+Only WebExtensions are allowed to omit the GUID
+Please specify your Add-on GUID in the manifest if it's longer than 64 characters.
+Invalid GUID in URL
+You cannot add a listed version to this addon via the API due to missing metadata. Please submit via the website
+No uploaded file for that addon and version.
+Overview
+by Source
+by Add-on Version
+by Application
+by Language
+by Platform
+by Add-on Status
+Subscribers
+Ratings
+Add-on Statistics
+Add-ons in Use
+Add-ons Created
+Add-ons Downloaded
+Add-ons Updated
+Collections Created
+Reviews Written
+User Signups
+Archived Data
+Custom Date Range
+From
+To
+Update
+Export
+ :: Statistics Dashboard :: Add-ons for 
+ :: Statistics Dashboard
+Statistics Dashboard :: Add-ons for 
+Statistics for 
+Statistics Dashboard
+Controls:
+reset zoom
+Group by:
+day
+week
+month
+For last:
+7 days
+30 days
+90 days
+365 days
+Custom...
+Statistics processing is currently disabled, so recent data is unavailable. The statistics are still being collected and this page will be updated soon with the missing data.
+Loading the latest data...
+No data available.
+This dashboard is currently public.
+This dashboard is currently private.
+Change settings.
+Add-ons Created by Date
+Add-ons Downloaded by Date
+Add-ons in Use by Date
+Add-ons Updated by Date
+Application usage by Date
+Collections Created by Date
+Downloaded by Date
+How are downloads counted?How are downloads counted?  Download counts are updated every evening and only include original add-on downloads, not updates. Downloads can be broken down by the specific source referring the download. 
+User languages by Date
+Platform usage by Date
+ Downloads
+Loading...
+ Average Daily Users
+Top Applications
+See more applications...
+Top Languages
+See more languages...
+Top Platforms
+See more platforms...
+Ratings by Date
+Reviews Created by Date
+Download sources by Date
+About tracking external sources...Tracking external sources  If you link to your add-on's details page or directly to its file from an external site, such as your blog or website, you can append a parameter to be tracked as an additional download source on this page. For example, the following links would appear as sourced by your blog:  Add-on Details Page https://addons.mozilla.org/addon/?src=external-blog Direct File Link https://addons.mozilla.org/downloads/latest//addon--latest.xpi?src=external-blog   Only src parameters that begin with \"external-\" will be tracked, up to 61 additional characters. Any text after \"external-\" can be used to describe the source, such as \"external-blog\", \"external-sidebar\", \"external-campaign225\", etc. The following URL-safe characters are allowed: a-z A-Z - . _ ~ %% +
+Add-on Status by Date
+Subscribers by Date
+Daily Users by Date
+What are daily users?What are daily users?  Themes installed from this site check for updates once per day. The total number of these update pings is known as Active Daily Users, or the total number of people using your theme by day. What are daily users?  Add-ons downloaded from this site check for updates once per day. The total number of these update pings is known as Active Daily Users. Daily users can be broken down by add-on version, operating system, add-on status, application, and locale. 
+User Signups by Date
+Application versions by Date
+Mozilla Add-ons
+Find add-ons for other applications
+Other Applications
+AMO is getting a new look. Would you like to see it?
+Visit the new site
+To create your own collections, you must have a Mozilla Add-ons account.
+Footer logo
+Choose a category
+The new website supports mobile and desktop clients
+View the new site
+Report a bugExcept where otherwise noted, content on this site is licensed under the   Creative Commons Attribution Share-Alike License v3.0  or any later version.
+get to know add-ons
+Download Firefox
+Android Browser
+iOS Browser
+Focus Browser
+Desktop Browser
+Beta, Nightly, Developer Edition
+Other languages
+Return to the  Add-ons homepage
+ Add-ons
+ Add-ons
+ Add-ons
+ Add-ons
+My Account
+Welcome, 
+Register or Log in
+To try the thousands of add-ons available here, download Mozilla Firefox, a fast, free way to surf the Web!
+Welcome to  Add-ons.
+Choose from thousands of extra features and styles to make Firefox your own.
+Add extra features and styles to make  your own.
+On the go?
+Check out our Mobile Add-ons site.
+Android Add-ons
+Required fields
+Localize for: 
+Existing Locales
+New Locales
+You have unsaved changes in the  locale. Would you like to save your changes before switching locales?
+Discard Changes
+Are you sure you want to remove all  translations? This cannot be undone.
+Delete Locale
+The user \"\" has been banned.user
+The picture belonging to user \"\" has been deleted.user
+The users \"\" have been banned.users, 
+Ban selected users
+Profile Photo
+Addons
+Activity Logs
+Email must be .
+Display Name
+Location
+Occupation
+You can change your email address on Firefox Accounts.
+This URL has an invalid format. Valid URLs look like http://example.com/my_page.
+To anonymize, enter a reason for the change but do not change any other field.
+No user with that email.
+Anonymous user 
+My Mobile Add-ons
+an add-on developer replies to my review
+new add-ons or Firefox features are available
+my add-on's compatibility is upgraded successfully
+my sdk-based add-on is upgraded successfully
+someone writes a review of my add-on
+stay up-to-date with news and events relevant to add-on developers (including the about:addons newsletter)
+my add-on's compatibility cannot be upgraded
+my sdk-based add-on cannot be upgraded
+my add-on is reviewed by a reviewer
+Mozilla needs to contact me about my individual add-on
+User Notifications
+An email address is required.
+A user with that email address does not exist.
+Profile Deleted
+Photo Deleted
+Profile Updated
+Errors Found
+There were errors in the changes you made. Please correct them and resubmit.
+User reported.
+new
+Ban
+Delete picture
+Delete User AccountYou cannot delete your account if you are listed as an  author of any add-ons. To delete your account, please have another person in your development group delete you from the list of authors for your add-ons. Afterwards you will be able to delete your account here.
+By clicking \"delete\" your account is going to be permanently removed. That means:
+Logging in with this email address into  again will create a new account that is in no way associated with this account.
+Your reviews and ratings will not be deleted, but they will no longer be associated with you.
+Confirm account deletion
+I understand this step cannot be undone.
+Delete my user account now
+Delete User Photo
+Delete my user picture now
+Please set your display name
+Please set your display name or username to complete the registration process.
+Manage basic account information, such as your username and Firefox Accounts settings.
+Username
+Email Address
+Manage Firefox Account...
+Profile
+Give us a bit more information about yourself. All these fields are optional, but they'll help other users get to know you better.
+This URL will only be visible if you are a developer.
+Choose Photo...
+Delete current photo
+Introduce yourself to the community, if you like! This text will appear publicly on your user info page.
+Allowed HTML: . Links are forbidden.
+Decide what collections should be shown in your profile.
+Display the collections I have created
+Display collections I'm following
+Notifications
+From time to time, Mozilla may send you email about upcoming releases and add-on events. Please select the topics you are interested in.
+Mozilla reserves the right to contact you individually about specific concerns with your hosted add-ons.
+Admin
+Delete Account
+Update Account
+none
+all
+Mozilla Add-ons has transitioned to Firefox Accounts for login. Continue to complete the simple login process.
+User Login
+Log in with Firefox Accounts
+Password Reset
+User Info for 
+Edit profile
+Manage user
+Report user
+Add-ons Developer
+Themes Artist
+About me
+In a little more detail...
+Add-ons I've created
+My Most Popular Themes
+Themes I've created
+Followed by Me
+Created by Me
+My Reviews
+No add-on reviews yet.
+Report User
+Please describe why you are reporting this user, such as for spam or an inappropriate picture.
+Report user 
+Unsubscribe
+You are successfully unsubscribed!
+The email address  will no longer get messages when:
+More Actions:
+edit your notification settings
+edit your profile
+We could not unsubscribe you
+Unfortunately, we weren't able to unsubscribe you. The link you clicked is invalid. However, you can still unsubscribe on your edit profile page.
+Developer Information
+User since
+Time of last login
+IP address of last login
+Number of add-ons developed
+ add-ons
+ theme
+ themes
+ add-on
+ add-ons
+Average rating of developer's add-ons
+others
+ Version History
+Version History with Changelogs
+  and later
+Permanent link to this version
+Released 
+Source code released under 
+ Version History
+ version
+ versions
+Be careful with old versions!
+These versions are displayed for reference and testing purposes. You should always use the latest version of an add-on.
+Deleted versions can`t be changed.
+Binary
+Non-binary
