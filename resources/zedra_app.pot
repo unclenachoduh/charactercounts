@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/mozilla-l10n/zerda-android-l10n/master/locales/templates/app.pot
