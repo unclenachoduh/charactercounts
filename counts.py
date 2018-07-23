@@ -99,13 +99,25 @@ if __name__ == "__main__":
 		data = sorted(charCounts.items(), key=operator.itemgetter(1), reverse=True)
 		
 		wout = open(output + file, "w+")
+		stringblock = ""
+		total = 0
 		for line in data:
-			wout.write(line[0] + "\t" + str(line[1]) + "\n")
+			stringblock += line[0] + "\t" + str(line[1]) + "\n"
+			total += line[1]
+
+		stringblock = "Total\t" + str(total) + "\n" + stringblock
+		wout.write(stringblock)
 
 	# sort and write for all docs
 	data = sorted(all_chars.items(), key=operator.itemgetter(1), reverse=True)
 
 	wout = open(output + "all", "w+")
+	stringblock = ""
+	total = 0
 	for line in data:
-		wout.write(line[0] + "\t" + str(line[1]) + "\n")
+		stringblock += line[0] + "\t" + str(line[1]) + "\n"
+		total += line[1]
+
+	stringblock = "Total\t" + str(total) + "\n" + stringblock
+	wout.write(stringblock)
 		
